@@ -34,5 +34,5 @@
 
 ![Devesh Patel GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveshPatel-14&show_icons=true&count_private=true)
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshPatel-14&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
