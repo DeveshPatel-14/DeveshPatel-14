@@ -7,6 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 <h3> 💻 About Me </h3>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Navrachana University, Vadodara
