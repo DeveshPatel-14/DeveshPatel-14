@@ -9,8 +9,8 @@
 <h3> 💻 About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at Navrachana University, Vadodara
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about DevOps, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing FullStack Web Development as side hustles.
