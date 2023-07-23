@@ -14,7 +14,7 @@
 
 - 🌱 &nbsp; Learning about DevOps, Systems Design.
 
-- ✍️ &nbsp; Pursuing FullStack Web Development as side hustles.
+- ✍️ &nbsp; Pursuing FullStack Web Development as side hustle.
 
 <h3>🛠 Tech Stack</h3>
 <h3 align="left">Programming Languages</h3>
