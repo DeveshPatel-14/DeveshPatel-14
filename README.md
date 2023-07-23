@@ -3,21 +3,14 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋
+### Hi there 👋 <h2> I'm Devesh</h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
+<h3> 💻 About Me </h3>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-<!--
-**DeveshPatel-14/DeveshPatel-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
 
-Here are some ideas to get you started:
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
