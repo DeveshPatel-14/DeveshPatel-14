@@ -7,9 +7,9 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Navrachana University, Vadodara
 
-- 🌱 &nbsp; Learning about DevOps, Systems Design.
+- 🌱 &nbsp; Learning about Systems Design.
 
-- ✍️ &nbsp; Pursuing FullStack Web Development as side hustle.
+- ✍️ &nbsp; Pursuing FullStack Web Development.
 
 <h3>🛠 Tech Stack</h3>
 <h3 align="left">Programming Languages</h3>
