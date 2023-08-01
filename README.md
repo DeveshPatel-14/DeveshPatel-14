@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Navrachana University, Vadodara
 
-- 🌱 &nbsp; Learning about Systems Design.
+- 🌱 &nbsp; Learning about NEXT.js, Systems Design.
 
 - ✍️ &nbsp; Pursuing FullStack Web Development.
 
